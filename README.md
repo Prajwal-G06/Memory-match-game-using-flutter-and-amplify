@@ -1,16 +1,15 @@
 # memory_match_game
 
-A new Flutter project.
+This is a flutter web application deployed on AWS Amplify
 
-## Getting Started
+## Aws services used:-
 
-This project is a starting point for a Flutter application.
+-> AWS CLI
+-> AWS Amplify-CLI, Flutter
+-> AWS Cognito
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get started with flutter on amplify
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter installation](https://docs.flutter.dev/get-started/install)
+- [Amplify Doc for using flutter](https://docs.amplify.aws/flutter/)
+- [Example to setup Amplify Auth](https://docs.amplify.aws/flutter/build-a-backend/auth/set-up-auth/)
