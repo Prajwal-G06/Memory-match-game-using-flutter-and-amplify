@@ -4,9 +4,9 @@ This is a flutter web application deployed on AWS Amplify
 
 ## Aws services used:-
 
--> AWS CLI
--> AWS Amplify-CLI, Flutter
--> AWS Cognito
+- AWS CLI
+- AWS Amplify-CLI, Flutter
+- AWS Cognito
 
 A few resources to get started with flutter on amplify
 
